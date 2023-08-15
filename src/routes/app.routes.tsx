@@ -1,7 +1,7 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route } from "react-router-dom";
 
-import { Search } from '../pages/Search';
-import { Dashboard } from '../pages/Dashboard';
+import { Search } from "../pages/Search";
+import { Dashboard } from "../pages/Dashboard";
 
 export function AppRoutes() {
   return (

@@ -1,9 +1,9 @@
-import './styles.css';
+import "./styles.css";
 
 export function Logo() {
   return (
-    <div className='logo'>
+    <div className="logo">
       <img src="logo.png" alt="Logo" />
     </div>
-  )
+  );
 }
